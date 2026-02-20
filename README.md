@@ -1,10 +1,3 @@
-#Smart Dashboard: Earthquakes in Japan
-
-**GEOG 458 – Advanced GIS**  
-University of Washington  
-Instructor: Bo Zhao  
-
----
 
 ## Project Overview
 
